@@ -1,0 +1,7 @@
+###
+GET https://api.github.com/user
+Authorization: Bearer {{github_pat}}
+
+###
+GET https://api.github.com/users/tk027/events
+Authorization: Bearer {{github_pat}}
